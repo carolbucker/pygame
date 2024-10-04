@@ -7,8 +7,8 @@ imagemRaio = pygame.image.load("img/lazer.png")
 imagemFundo = pygame.image.load("img/espaco.png")
 
 # Carregando constantes
-LARGURAJANELA = 600
-ALTURAJANELA = 600
+LARGURAJANELA = 1920
+ALTURAJANELA = 1080
 CORTEXTO = (255, 255, 255) # Branco
 QPS = 40 # quadros por segundo
 TAMMINIMO = 10 # tamanho mínimo do asteroide
